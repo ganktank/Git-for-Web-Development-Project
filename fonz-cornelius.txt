@@ -1,0 +1,10 @@
+1. Block elements create a new line where, inline elements do not. 
+2. Position: absolute; This element is no longer in the normal flow of the layout, it is on its own layer.
+3. by adding multiple classes to an element.
+4. <Div> <footer><Header> display block/ <img> <a> inline / button inline-block 
+5. Box model, focuses on your layout design, a box that wraps around your content. Box-sizing fixes the known layout issues with the box model. 
+
+ 
+
+
+My project codpin  https://www.codepen.io/ganktank/pen/vYyVawq 
